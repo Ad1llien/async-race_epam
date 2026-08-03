@@ -1,4 +1,4 @@
-export const API_URL = 'http://localhost:3000';
+export const API_URL = 'https://async-race-api-1-dn8o.onrender.com';
 
 export const GARAGE_PAGE_SIZE = 7;
 export const WINNERS_PAGE_SIZE = 10;

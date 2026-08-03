@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-bg: #0b0c14;
+  --color-surface: #12131f;
+  --color-surface-alt: #191b2a;
+  --color-border: #2b2d42;
+  --color-text: #d7d9f0;
+  --color-text-dim: #8b8da8;
+  --color-accent-pink: #ff3ea5;
+  --color-accent-cyan: #35e2ff;
+  --color-accent-green: #4dff9e;
+  --color-accent-red: #ff5c5c;
+}
+
+body {
+  @apply bg-bg text-text;
+}
